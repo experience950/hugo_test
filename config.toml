@@ -1,4 +1,6 @@
+hasCJKLanguage = true
 baseURL = "http://example.org/"
 languageCode = "ja"
 title = "Programming Note"
-theme = "hyde-hyde"
+theme = "ananke"
+author = "K.Inamasu"
